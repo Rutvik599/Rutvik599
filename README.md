@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutvik Patel</h1>
-<h3 align="center">Mobile Application and Web Developer</h3>
+<h3 align="center">Mobile Application | Web Developer | UI/UX Designer | AI/ML Developer</h3>
 
 - 🌱 I’m currently learning **AI , Machine Learning**
 
